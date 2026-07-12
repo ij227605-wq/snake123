@@ -1,0 +1,11 @@
+{
+    "SPEED": 30,
+    "LR": 0.001,
+    "GAMMA": 0.9,
+    "EPSILON": 80,
+    "BATCH_SIZE": 1000,
+    "TARGET_SCORE": 10,
+    "LOAD_MODEL": false,
+    "N_GAMES": 0,
+    "RECORD": 0
+}
